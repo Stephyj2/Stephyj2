@@ -4,6 +4,8 @@
 
 I am a Data Science professional with experience in Data Analysis, Machine Learning, NLP, and Generative AI. I enjoy building data-driven solutions and exploring modern AI technologies such as LLMs, RAG systems, LangChain, and AI Agents.
 
+Started in data operations and business reporting → transitioned into Data Science → built ML projects → learned GenAI/LLMs → developed end-to-end AI solutions.
+
 ---
 
 ## Skills
